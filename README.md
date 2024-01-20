@@ -2,10 +2,10 @@
 Using t-SNE to visualize the diversity of chemical libraries
 
 - Based on this PCA/TSNE analysis
-- https://github.com/rdkit/rdkit-tutorials/blob/master/notebooks/005_Chemical_space_analysis_and_visualization.ipynb
+https://github.com/rdkit/rdkit-tutorials/blob/master/notebooks/005_Chemical_space_analysis_and_visualization.ipynb
 
 - 2024.01.05, 2024.01.18
-- Peter M.U. Ung @ gRED
+Peter M.U. Ung @ gRED
 
 - Degrader_CRBN.murcko_cluster.full_space.ipynb
 Analysis the chemical diversity and overlaps of multiple libraries. Using the generic/hetero Murcko structures
@@ -22,10 +22,9 @@ analyze the true chemical space. Use t-SNE to better spread out the chemical spa
 
 ![Degrader_CRBN all_lib hetero_murcko_tSNE](https://github.com/mungpeter/Chemical-Diversity-with-tSNE/assets/52801335/a53c442f-f117-4a60-995a-945494c111b4)
 
-# Python 3.9
--   pandas 1.4.3
--   rdkit 2022.09
-
--   numpy 1.23.1
--   seaborn 0.11.2
--   sklearn 1.1.1
+- Python 3.9
+  pandas 1.4.3
+  rdkit 2022.09
+  numpy 1.23.1
+  seaborn 0.11.2
+  sklearn 1.1.1
